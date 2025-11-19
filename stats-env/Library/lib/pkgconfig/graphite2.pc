@@ -1,0 +1,7 @@
+
+Name: Graphite2
+Description: Font rendering engine for Complex Scripts
+Version: 3.0.1
+Libs: -LC:/Users/User/OneDrive/Desktop/notebooks/stats-env/Library/lib -lgraphite2
+Cflags: -IC:/Users/User/OneDrive/Desktop/notebooks/stats-env/Library/include
+

@@ -1,0 +1,11 @@
+prefix=C:/Users/User/OneDrive/Desktop/notebooks/stats-env/Library 
+exec_prefix=C:/Users/User/OneDrive/Desktop/notebooks/stats-env/Library 
+libdir=C:/Users/User/OneDrive/Desktop/notebooks/stats-env/Library/lib 
+includedir=C:/Users/User/OneDrive/Desktop/notebooks/stats-env/Library/include 
+modules=0 
+Name: libXML 
+Version: 2.13.8 
+Description: libXML library version2. 
+Requires: 
+Libs: -LC:/Users/User/OneDrive/Desktop/notebooks/stats-env/Library/lib -lxml2 -liconv -lz 
+Cflags: -IC:/Users/User/OneDrive/Desktop/notebooks/stats-env/Library/include/libxml2 -IC:/Users/User/OneDrive/Desktop/notebooks/stats-env/Library/include 
